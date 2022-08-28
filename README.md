@@ -1,4 +1,4 @@
 # Simulation of planets Orbiting a star
 
 ## Just an experiment, nothing special
-## Soon be online on github pages
+## Check it out - https://duskyelf.github.io/orbits-simulation/
